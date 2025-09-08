@@ -2,9 +2,14 @@
 
 # dependencies
 /node_modules
+/ShopSmart
 /.pnp
 .pnp.js
-
+node_modules/
+build/
+dist/
+.env
+.DS_Store
 # testing
 /coverage
 
